@@ -8,7 +8,7 @@
 - [ ] **Extração de conhecimento**
   - [ ] Extarir formato da prova
   - [ ] Extarir materias principais e conteudo programatico
-- [ ] Formatar para consumo dos agentes
+- [ ] **Formatar para consumo dos agentes**
 ### 🤖 Agentes e IA
 - [ ] **Integração com LLMs**
   - [ ] Integração com Deepseek
