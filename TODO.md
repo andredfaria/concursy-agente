@@ -1,7 +1,14 @@
 # 📋 TODO - Concursy Agente
 
 ## 🚀 Próximos Passos
-
+## RAG 
+- [ ] **Carregar documentos pdf**
+- [ ] **Vetorizar dados**
+  - [ ] Salvar dados vetorizados em um db (Optional)
+- [ ] **Extração de conhecimento**
+  - [ ] Extarir formato da prova
+  - [ ] Extarir materias principais e conteudo programatico
+- [ ] Formatar para consumo dos agentes
 ### 🤖 Agentes e IA
 - [ ] **Integração com LLMs**
   - [ ] Integração com Deepseek
