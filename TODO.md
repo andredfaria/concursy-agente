@@ -10,10 +10,10 @@
   - [ ] Extarir materias principais e conteudo programatico
 - [ ] **Formatar para consumo dos agentes**
 ### 🤖 Agentes e IA
-- [ ] **Integração com LLMs**
+- [x] **Integração com LLMs**
+  - [x] Suporte a múltiplos providers (OpenAI, Anthropic, Google, Groq, Ollama, HuggingFace)
   - [ ] Integração com Deepseek
-  - [ ] Integração com outras LLMs (Claude, Gemini)
-  - [ ] Sistema de fallback entre diferentes modelos
+  - [ ] Sistema de fallback automático entre diferentes modelos
 
 - [ ] **Agentes Especializados**
   - [ ] Agente com resumo do edital
