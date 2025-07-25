@@ -4,6 +4,10 @@ langchain>=0.1.17
 langchain-community>=0.0.30
 python-dotenv>=1.0.1
 
+# Processamento de PDF
+PyPDF2>=3.0.0
+pypdf>=3.0.0
+
 # Providers de LLM - pelo menos um é obrigatório
 # OpenAI (padrão)
 langchain-openai>=0.1.0

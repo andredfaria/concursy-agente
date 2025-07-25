@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cpa20_2023_q1",
+    "prova": "CPA-20",
+    "ano": "2023",
+    "tema": "Mercado Financeiro",
+    "nivel": "Médio",
+    "enunciado": "Qual das seguintes alternativas melhor define o conceito de liquidez no mercado financeiro?",
+    "alternativas": {
+      "A": "A capacidade de um ativo gerar lucros consistentes ao longo do tempo",
+      "B": "A facilidade com que um ativo pode ser convertido em dinheiro sem perda significativa de valor",
+      "C": "O grau de risco associado a um determinado investimento",
+      "D": "A taxa de retorno esperada de um investimento em relação ao seu benchmark"
+    },
+    "resposta_correta": "B",
+    "justificativa": "Liquidez refere-se à facilidade e rapidez com que um ativo pode ser convertido em dinheiro, sem afetar significativamente seu preço de mercado."
+  },
+  {
+    "id": "cpa20_2023_q2",
+    "prova": "CPA-20",
+    "ano": "2023",
+    "tema": "Fundos de Investimento",
+    "nivel": "Difícil",
+    "enunciado": "Em relação aos fundos de investimento multimercado, é correto afirmar que:",
+    "alternativas": {
+      "A": "Devem aplicar no mínimo 95% do patrimônio em ativos de renda fixa",
+      "B": "São proibidos de utilizar derivativos para alavancagem",
+      "C": "Podem aplicar em diferentes classes de ativos e utilizar estratégias diversificadas",
+      "D": "Têm prazo de resgate limitado a D+1"
+    },
+    "resposta_correta": "C",
+    "justificativa": "Fundos multimercado têm política de investimento que envolve vários fatores de risco, sem concentração em nenhum fator específico, podendo usar diferentes estratégias."
+  },
+  {
+    "id": "cpa20_2023_q3",
+    "prova": "CPA-20",
+    "ano": "2023",
+    "tema": "Renda Fixa",
+    "nivel": "Fácil",
+    "enunciado": "O que acontece com o preço de um título de renda fixa prefixado quando a taxa de juros do mercado sobe?",
+    "alternativas": {
+      "A": "O preço do título aumenta",
+      "B": "O preço do título diminui",
+      "C": "O preço do título permanece inalterado",
+      "D": "O preço do título se ajusta automaticamente à nova taxa"
+    },
+    "resposta_correta": "B",
+    "justificativa": "Existe uma relação inversa entre taxas de juros e preços de títulos de renda fixa. Quando as taxas sobem, o preço dos títulos existentes cai."
+  }
+] 
