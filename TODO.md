@@ -5,9 +5,11 @@
 - [ ] **Carregar documentos pdf**
 - [ ] **Vetorizar dados**
   - [ ] Salvar dados vetorizados em um db (Optional)
+
 - [ ] **Extração de conhecimento**
   - [ ] Extarir formato da prova
   - [ ] Extarir materias principais e conteudo programatico
+  
 - [ ] **Formatar para consumo dos agentes**
 ### 🤖 Agentes e IA
 - [ ] **Integração com LLMs**
@@ -15,11 +17,11 @@
   - [ ] Integração com outras LLMs (Claude, Gemini)
   - [ ] Sistema de fallback entre diferentes modelos
 
-- [ ] **Agentes Especializados**
-  - [ ] Agente com resumo do edital
-  - [ ] Agente com questões exemplo de provas antigas
-  - [ ] Agente de análise de PDF
-  - [ ] Agente pedagogo para explicações
+- [x] **Agentes Especializados**
+  - [x] Agente com resumo do edital
+  - [x] Agente com questões exemplo de provas antigas
+  - [x] Agente de análise de PDF
+  - [x] Agente pedagogo para explicações
 
 ### 📝 Prompts e Conteúdo
 - [ ] **Melhorias de Prompts**
